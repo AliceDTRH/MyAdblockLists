@@ -1,5 +1,5 @@
 # Why would you make a list that hides donation requests? These websites deserve to get their donations!
-I completely agree! Most of the websites on my list I've either already donated or am planning to donate (more) to in the near future or I have contributed to it in some other way.
+I completely agree! Most of the websites on my list I've either already donated or am planning to donate (more) to in the near future or I have contributed to it in some other way or I can really not afford to support them at the time.
 
 However, any messages repeated too often start to get annoying, especially when I'm using devices that have smaller screens or when the messages are significantly big or annoying they start getting in the way of my usage of the service. 
 
