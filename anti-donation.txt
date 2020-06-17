@@ -1,6 +1,6 @@
 ! Title: Anti-Donation Messages
 ! Author: AliceDTRH
-! Description: Filters created in Ublock Origin for removing messages either begging for donations or subscription requests.
+! Description: Filters created in Ublock Origin to remove premium/subscription/donation nags or messages.
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
 ! Homepage: https://github.com/AliceDTRH/MyAdblockLists
 ! Forums: https://github.com/AliceDTRH/MyAdblockLists/issues
