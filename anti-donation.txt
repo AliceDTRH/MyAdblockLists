@@ -10,3 +10,4 @@ nexusmods.com##.premium-block--upgrade
 nexusmods.com##.premium-banner
 nexusmods.com##.rj-supporter-wrapper
 nexusmods.com##a.rj-orange:has-text(/^Upgrade to premium/)
+nexusmods.com###fastDownloadButton
