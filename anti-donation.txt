@@ -1,0 +1,11 @@
+! Title: Anti-Donation Messages
+! Author: AliceDTRH
+! Description: Filters created in Ublock Origin for removing messages either begging for donations or subscription requests.
+! License: https://creativecommons.org/licenses/by-sa/4.0/
+! Homepage: https://github.com/AliceDTRH/MyAdblockLists
+! Forums: https://github.com/AliceDTRH/MyAdblockLists/issues
+
+!Nexus Mods "Premium" ads
+nexusmods.com##.premium-block--upgrade
+nexusmods.com##.rj-supporter-wrapper
+nexusmods.com##a.rj-orange:has-text(/^Upgrade to premium/)
