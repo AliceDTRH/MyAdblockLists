@@ -11,3 +11,6 @@ nexusmods.com##.premium-banner
 nexusmods.com##.rj-supporter-wrapper
 nexusmods.com##a.rj-orange:has-text(/^Upgrade to premium/)
 nexusmods.com###fastDownloadButton
+
+!Portable apps adblock donation message
+portableapps.com###block-block-39:has-text(/^Please Help Support Us/)
