@@ -14,3 +14,6 @@ nexusmods.com###fastDownloadButton
 
 !Portable apps adblock donation message
 portableapps.com###block-block-39:has-text(/^Please Help Support Us/)
+
+!Wikipedia banner campaigns
+https://meta.wikimedia.org/w/index.php?title=Special:BannerLoader*
