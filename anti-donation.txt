@@ -18,3 +18,6 @@ portableapps.com###block-block-39:has-text(/^Please Help Support Us/)
 
 !Wikipedia banner campaigns
 https://meta.wikimedia.org/w/index.php?title=Special:BannerLoader*
+
+!Curseforge premium banners
+www.curseforge.com/images/premium/premium-install.webp
