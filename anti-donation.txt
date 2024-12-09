@@ -21,3 +21,4 @@ https://meta.wikimedia.org/w/index.php?title=Special:BannerLoader*
 
 !Curseforge premium banners
 www.curseforge.com/images/premium/premium-install.webp
+www.curseforge.com##.premium-button-container
