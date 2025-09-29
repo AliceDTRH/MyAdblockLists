@@ -10,12 +10,13 @@
 // @author       AliceDTRH
 // @match        https://www.nexusmods.com/*/mods/*?tab=files&file_id=*
 // @grant        none
-// @run-at       document-end
+// @run-at       document-idle
 // ==/UserScript==
 
 (function() {
     'use strict';
-    var slowDownloadButton = document.getElementById('slowDownloadButton');
+    var shadowRoot = document.querySelector('mod-file-download').shadowRoot
+    var slowDownloadButton = shadowRoot.querySelector('button')
 
     if(slowDownloadButton != null) {
         console.info("[nexusmods-skip-manual-download-page.user.js]","Clicking download button."); slowDownloadButton.click();
