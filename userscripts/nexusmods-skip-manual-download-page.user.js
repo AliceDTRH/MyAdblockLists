@@ -5,7 +5,7 @@
 // @supportURL   https://github.com/AliceDTRH/MyAdblockLists/issues/new/choose
 // @updateURL    https://github.com/AliceDTRH/MyAdblockLists/raw/master/userscripts/nexusmods-skip-manual-download-page.user.js
 // @downloadURL  https://github.com/AliceDTRH/MyAdblockLists/raw/master/userscripts/nexusmods-skip-manual-download-page.user.js
-// @version      0.3
+// @version      0.4
 // @description  This userscript skips the manual download page that ask you to upgrade your account before downloading on Nexus Mods.
 // @author       AliceDTRH
 // @match        https://www.nexusmods.com/*/mods/*?tab=files&file_id=*
