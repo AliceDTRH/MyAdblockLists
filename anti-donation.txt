@@ -22,3 +22,6 @@ https://meta.wikimedia.org/w/index.php?title=Special:BannerLoader*
 !Curseforge premium banners
 www.curseforge.com/images/premium/premium-install.webp
 www.curseforge.com##.premium-button-container
+
+!Dungeon master vault donation message
+www.dungeonmastersvault.com##div.content:has-text(/^Please consider a gift/)
